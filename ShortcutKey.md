@@ -1,6 +1,6 @@
-####################### WINDOWS SHORT-CUT KEYS ################################
+# WINDOWS SHORT-CUT KEYS
 
-
+```
             alt + tab  -->  To swich the programm
             alt + spacebar  ---> Restore/move/minimise/close the page
             alt + esc      ---> Switch the programm
@@ -64,9 +64,11 @@
             F12 ---> Save the file
             ctrl + F12 ---> open new file in MS-word
             shift + F12 ----> Print the file
+```
 
-########################### Mouse SHORT-CUT KEYS ######################
+# Mouse SHORT-CUT KEYS
 
+```
             alt + shift + numLock ---> open the mouse menu
             8 ----> cursor up
             2 ----> cursor down
@@ -82,10 +84,11 @@
             5 ----> select the file
             5 ----> (On Double type) open the file
             0 ----> Lock the folder/file for drag and drop
+```
 
+# CHROME SHORT-CUT KEYS
 
-########################### CHROME SHORT-CUT KEYS ##############################
-
+```
             ctrl + T --->Open a new tab
             ctrl + shift + T ---> Reopen the closed tab
             ctrl + shift + J ---> open the Developer Tool
@@ -107,4 +110,5 @@
             ctrl + L -----> Go to  AddressBar
             ctrl + S ---> save the page 
 
-            ctrl + shift + Q ----> close all the open Window 
+            ctrl + shift + Q ----> close all the open Window
+```
