@@ -111,4 +111,5 @@
             ctrl + S ---> save the page 
 
             ctrl + shift + Q ----> close all the open Window
+            ctrl + shiift + i -----> Inspect element
 ```
