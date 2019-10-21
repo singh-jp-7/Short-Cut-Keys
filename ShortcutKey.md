@@ -35,7 +35,7 @@
 
             delete key ---> it works oppsite the backspace key
             ctrl + delete ---> Delete the word
-
+            shift + ctrl + esc ---> opens task manager
             F1 ----> help
             F2 ----> Rename the File
             alt + ctrl + F2 ----> Search the File
