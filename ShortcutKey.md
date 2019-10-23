@@ -13,7 +13,7 @@
             ctrl + esc ---> open the start menu
             ctrl + F4 ---> close thye programm
             F1  ----> open the help window of that programm
-
+            shift + ctrl + delete ---> open task manager menu
             windows + L ---> lock the Screen
             windows + pause Break --> Properties of the system
             windows + E ---> open File-Explorer
@@ -40,6 +40,7 @@
             F2 ----> Rename the File
             alt + ctrl + F2 ----> Search the File
             ctrl + F2 ---> Print Review
+            Fn + f4-----> Sleep
 
             F3 ---> Searching
             shift + F3 ---->Change the Case( upper to lower and vice-versa)
